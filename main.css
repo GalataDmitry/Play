@@ -2,3 +2,7 @@ body {
     background:darkblue ;
     margin: auto;
 }
+p {
+    color: red;
+    font-size: 20px;
+}
